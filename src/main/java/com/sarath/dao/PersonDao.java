@@ -1,9 +1,9 @@
-package com.accenture.dao;
+package com.sarath.dao;
 
 
 import java.util.List;
 
-import com.accenture.bean.Person;
+import com.sarath.bean.Person;
 
 public interface PersonDao {
 

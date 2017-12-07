@@ -1,4 +1,4 @@
-package com.accenture.bean;
+package com.sarath.bean;
 
 public class Person {
 	 

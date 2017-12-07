@@ -1,13 +1,13 @@
-package com.accenture;
+package com.sarath;
 
 import java.util.List;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.support.AbstractApplicationContext;
- 
-import com.accenture.bean.Person;
-import com.accenture.configuration.ApplicationConfig;
-import com.accenture.services.PersonService;
+
+import com.sarath.bean.Person;
+import com.sarath.configuration.ApplicationConfig;
+import com.sarath.services.PersonService;
  
 
 public class App 

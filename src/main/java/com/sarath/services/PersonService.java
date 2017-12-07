@@ -1,8 +1,8 @@
-package com.accenture.services;
+package com.sarath.services;
 
 import java.util.List;
 
-import com.accenture.bean.Person;
+import com.sarath.bean.Person;
  
 public interface PersonService {
  

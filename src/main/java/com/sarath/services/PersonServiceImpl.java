@@ -1,12 +1,12 @@
-package com.accenture.services;
+package com.sarath.services;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
- 
-import com.accenture.bean.Person;
-import com.accenture.dao.PersonDao;
+
+import com.sarath.bean.Person;
+import com.sarath.dao.PersonDao;
  
 @Service("personService")
 public class PersonServiceImpl implements PersonService {

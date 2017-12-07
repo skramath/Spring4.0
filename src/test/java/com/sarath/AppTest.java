@@ -1,4 +1,4 @@
-package com.accenture;
+package com.sarath;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

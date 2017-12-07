@@ -1,4 +1,4 @@
-package com.accenture.dao;
+package com.sarath.dao;
 
 import java.util.List;
 
@@ -7,8 +7,8 @@ import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.jdbc.core.BeanPropertyRowMapper;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;
- 
-import com.accenture.bean.Person;
+
+import com.sarath.bean.Person;
  
 @Repository
 @Qualifier("personDao")
