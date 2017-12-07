@@ -1,0 +1,7 @@
+com\accenture\App.class
+com\accenture\dao\PersonDao.class
+com\accenture\configuration\ApplicationConfig.class
+com\accenture\dao\PersonDaoImpl.class
+com\accenture\services\PersonServiceImpl.class
+com\accenture\bean\Person.class
+com\accenture\services\PersonService.class
